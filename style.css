@@ -4,7 +4,7 @@ body{
 }
 body,li,p,td{
 	font-family: calibri;
-	font-size: clamp(70%, 2vw,200%);
+	font-size: clamp(100%, 2vw,200%);
 }
 .name{
 	color: black;
